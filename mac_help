@@ -1,0 +1,3 @@
+## disable the character autocomplete on long press
+defaults write -g ApplePressAndHoldEnabled -bool false
+
